@@ -4,7 +4,7 @@ A portfolio web page.
 
 ## Demo
 
-[https://williamccondori.github.io/webpages/alexa-portfolio-design](https://williamccondori.github.io/webpages/alexa-portfolio-design)
+[https://williamccondori.github.io/webpages/alexa-portfolio-design/](https://williamccondori.github.io/webpages/alexa-portfolio-design/)
 
 ## Usage
 

@@ -4,7 +4,7 @@ A restaurant web page.
 
 ## Demo
 
-[https://williamccondori.github.io/webpages/tasty-food](https://williamccondori.github.io/webpages/tasty-food)
+[https://williamccondori.github.io/webpages/tasty-food/](https://williamccondori.github.io/webpages/tasty-food/)
 
 ## Usage
 
