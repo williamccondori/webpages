@@ -1,10 +1,10 @@
-# Tasty food
+# Alexa portfolio design
 
-A restaurant web page.
+A portfolio web page.
 
 ## Demo
 
-[https://williamccondori.github.io/webpages/tasty-food](https://williamccondori.github.io/webpages/tasty-food)
+[https://williamccondori.github.io/webpages/alexa-portfolio-design](https://williamccondori.github.io/webpages/alexa-portfolio-design)
 
 ## Usage
 
